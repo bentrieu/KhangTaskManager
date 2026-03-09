@@ -1,6 +1,6 @@
 # KhangTaskManager
-Using go + psql to play with tools
-just to test go + tools integration and maybe cloud <br>
+Using go + psql to play with tools <br>
+and maybe cloud <br>
 need make + docker to run ts
 
 Use ```make run``` to run 🏃
