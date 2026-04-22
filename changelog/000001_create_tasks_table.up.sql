@@ -1,6 +1,4 @@
-CREATE TYPE progress_enum
-AS
-ENUM('done', 'in progress', 'todo');
+CREATE TYPE progress_enum AS ENUM('done', 'in progress', 'todo');
 
 CREATE TABLE IF NOT EXISTS tasks(
     task_id serial PRIMARY KEY,
